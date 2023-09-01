@@ -1,0 +1,5 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Chris Riley
+description: Disruptive internet policy engineer, beverage connoisseur, gregarious introvert, contrarian order Muppet, persistent optimist (somehow!), and proud husband & father. Not in order.
